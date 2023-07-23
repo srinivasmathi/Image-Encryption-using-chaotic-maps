@@ -14,7 +14,7 @@ and initial condition sensitivity. The Encryption Algorithm uses two chaotic map
 map for shuffling the image’s pixel values and a 2D Non-linear chaotic map for substitution
 of the pixel value.
 
-Base Paper: https://doi.org/10.1016/j.asej.2021.05.004/
+Base Paper: https://doi.org/10.1016/j.asej.2021.05.004
 
 Input Image: 
 
