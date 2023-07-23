@@ -2,6 +2,9 @@
 
 the project "Implementation of an Image Encryption algorithm using the chaotic maps" is submitted as the requirement of the course INT300 -MINI PROJECT of our University
 
+Team Members:-
+Haritha Sri M @HarithasriMohanKumar, Sriram K @Sriiiiio
+
 It uses the Confusion-Diffusion model which increases the security and makes the encryption strenuous 
 to crack. Permutations are done to shuffle the image’s pixel values which decrease the
 correlation(Association) between two adjacent pixels and then diffusion is done. The security
