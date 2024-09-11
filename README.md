@@ -1,6 +1,6 @@
 # Image-Encryption-using-chaotic-maps
 
-the project "Implementation of an Image Encryption algorithm using the chaotic maps" is submitted as the requirement of the course INT300 -MINI PROJECT of our University
+the project "IMPLEMENTATION OF A CRYPTOGRAPHIC ALGORITHM USING A TWO-DIMENSIONAL CHAOTIC MAP" is submitted as the requirement of the course INT300 -MAIN PROJECT of our University
 
 Team Members:-
 Haritha Sri M @HarithasriMohanKumar, Sriram K @Sriiiiio
